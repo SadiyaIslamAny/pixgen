@@ -1,11 +1,11 @@
 import Banner from "@/components/Banner";
-import Footer from "@/components/Footer";
+import TopGenerations from "@/components/TopGenerations";
 
 export default function Home() {
   return (
     <div>
       <Banner></Banner>
-      
+      <TopGenerations></TopGenerations>
     </div>
   );
 }
