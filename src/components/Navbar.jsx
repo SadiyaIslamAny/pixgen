@@ -13,7 +13,7 @@ const Navbar = () => {
 
   }
 
-  console.log(user)
+  // console.log(user)
   return (
     <div className="border-b px-2">
       <nav className=" flex justify-between items-center  py-3 max-w-7xl mx-auto w-full">
